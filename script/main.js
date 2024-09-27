@@ -306,6 +306,11 @@ const animationTimeline = () => {
     // Redirect to a specific URL
     window.location.href = "https://www.netflix.com/in/title/80081793"; // Replace with your desired URL
   });
+    const linkBtn2 = document.getElementById("linkBtn2");
+  linkBtn2.addEventListener("click", () => {
+    // Redirect to a specific URL
+    window.location.href = "https://www.youtube.com/watch?v=IwfUnkBfdZ4"; // Replace with your desired URL
+  });
 };
 
 // Run fetch and animation in sequence
