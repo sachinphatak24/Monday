@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya",
+  "name": "Divya",
+  "greetingText": "Guess what day it is?",
+  "wishText": "Dekh le movie jaldi se dhakkan! :)",
+  "imagePath": "img/batAndSupesLogo.png",
+  "text1": "It's Monday!!! :D",
+  "textInChatBox": "Its Monday, This is a reminder to watch Batman V Superman...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "This Movie is Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Watch Batman V Superman!",
+  "outroText": "Okay, This was crazy. Click here to watch the movie!",
+  "replayText": "Or click here, if you want to watch the whole thing again.",
+  "outroSmiley": ":)"
+}
